@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap");
+
+.font-mulish {
+  font-family: "Mulish", sans-serif;
+}
+.text-gradient-to-r {
+  background: linear-gradient(to right, #797dfc, #797dfc00);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
